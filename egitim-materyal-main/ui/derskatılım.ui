@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>399</width>
+    <height>442</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Katıldığım Dersler</string>
+  </property>
+  <widget class="QTableWidget" name="tablo">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>401</width>
+     <height>491</height>
+    </rect>
+   </property>
+   <property name="contextMenuPolicy">
+    <enum>Qt::DefaultContextMenu</enum>
+   </property>
+   <column>
+    <property name="text">
+     <string>Katılım Tarihi</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Ders Adı</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Ders Öğretmeni</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Ders Türü</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
