@@ -47,3 +47,6 @@ Aşağıda uygulamadan alınmış ekran görüntüleri bulunmaktadır.
 
 ![sorular](![Ekran görüntüsü 2024-05-13 020035](https://github.com/Mehmeteyupkahraman/EgitimMateryaliPaylasimPlatformu/assets/148050747/070081e7-2036-45aa-8200-bb07453e73e5)
 )
+### Soru Sor Sayfası
+- Yanıt ver sayfasında öğretmen öğrencilerden gelen soruları cevaplar.
+  ![image](https://github.com/Mehmeteyupkahraman/EgitimMateryaliPaylasimPlatformu/assets/148050747/73b5e56d-e888-4c2c-a855-0a0ba69fc586)
